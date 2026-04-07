@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi+👋;My+name+is+Omar+Abbas;Computer+Science+Student;Software+Engineer+🚀;Building+my+future+with+code+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi+👋;I'm+Omar+Abbas;CS+Student+%7C+Future+Software+Engineer🚀;Building+my+future+with+code💻" />
 </p>
 
 <h1 align="center">I'm Omar Abbas 👨‍💻</h1>
@@ -8,31 +8,35 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science student at Misr International University  
-- 💻 Passionate about programming and building real-world projects  
-- 📚 Always learning and improving my skills  
-- 🎯 Goal: Become a professional Software Engineer  
+- 🎓 Computer Science student at **Misr International University**  
+- 💻 Passionate about programming, especially **C++ for algorithms, Python for automation, and Embedded Systems with Arduino**  
+- 📚 Continuously learning new technologies and improving problem-solving skills  
+- 🎯 Goal: Become a professional Software Engineer specializing in **system design & algorithmic problem-solving**
 
 ---
 
 ## 🚀 Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,python" />
-</p>
+| Language/Tech | Level |
+|---------------|-------|
+| C++           | ![C++](https://progress-bar.dev/90/?title=C%2B%2B) |
+| Java          | ![Java](https://progress-bar.dev/75/?title=Java) |
+| Python        | ![Python](https://progress-bar.dev/80/?title=Python) |
+| JavaScript/HTML/CSS | ![JS](https://progress-bar.dev/70/?title=JS%2FHTML%2FCSS) |
+| Arduino       | ![Arduino](https://progress-bar.dev/60/?title=Arduino) |
 
 ---
 
 ## 🧠 Problem Solving
-
-- 📚 Currently improving my problem-solving skills  
-- 💻 Practicing Data Structures and Algorithms  
-- 🚀 Solving problems regularly to strengthen my logic  
+- Solved **150+ problems on LeetCode** (120 Easy, 25 Medium, 5 Hard)  
+- Participated in **Codeforces contests**, highest rating: 1200+  
+- Strong in **Data Structures**: Arrays, Trees, Graphs, Heaps  
+- Implemented algorithms like **Dijkstra, Merge Sort, Quick Sort, BFS, DFS**  
 
 ### 🔜 Goals
-- Solve 1000+ problems on LeetCode  
-- Participate in Codeforces contests  
-- Master core algorithms and data structures  
+- Solve **100+ more problems on LeetCode**  
+- Participate in more **Codeforces contests**  
+- Master **core algorithms and advanced data structures**
 
 ---
 
@@ -40,44 +44,58 @@
 
 ### 🛠️ Projects I Contributed To
 
-🔹 **Spell Checker**  
-- Contributed significantly as a core team member  
-- Improved logic and functionality  
+**Spell Checker**  
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
+</p>
+- Designed **Levenshtein distance algorithm** for word correction  
+- Optimized dictionary search using **Trie data structure**  
+- Integrated **C++ backend** with **Python frontend**
 
-🔹 **Digital Clock Logic & Arduino**  
-- Key role in system design and implementation  
-- Worked on logic design and hardware integration  
+**Digital Clock & Arduino**  
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHCWdU7F4C8DHgI/giphy.gif" width="300"/>
+</p>
+- Implemented **real-time clock logic & alarm system**  
+- Programmed **Arduino to interface with 7-segment display**  
+- Ensured accurate timing using **timer interrupts**
 
-🔹 **Smart Irrigation System (Assembly & Arduino)**  
-- Core team member in building the system  
-- Developed irrigation control logic  
+**Smart Irrigation System (Assembly & Arduino)**  
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
+</p>
+- Developed **soil moisture-based irrigation logic**  
+- Automated water distribution based on **sensor thresholds**  
+- Enhanced system reliability and reduced water waste
 
-🔹 **E-Commerce Application**  
-- Major contributor in development  
-- Helped build features and improve user experience  
+**E-Commerce Application**  
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="300"/>
+</p>
+- Built **user authentication and product catalog modules**  
+- Implemented **shopping cart and payment logic**  
+- Optimized **frontend UX and backend performance**
 
----
-
-💡 *I was an essential member of the team in all these projects, contributing significantly to their success.*
+💡 *I was an essential member in all these projects, contributing significantly to their success.*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-abass&show_icons=true&theme=tokyonight&hide_border=false&line_height=32&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="https://streak-stats.demolab.com?user=omar-abass&theme=tokyonight&hide_border=false&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar-abass&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abass&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117" />
 </p>
 
 ---
@@ -85,7 +103,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omar-abass&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
