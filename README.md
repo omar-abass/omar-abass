@@ -43,8 +43,6 @@
 
 ---
 
-## 🚀 Projects
-
 ## 🚀 Projects  
 
 ### 🧑‍💻 Personal Projects
