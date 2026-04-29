@@ -7,49 +7,82 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Computer Science student at **Misr International University**  
-- 💻 **Software Engineer** building real-world projects in C++, Python, Java, and Web Development  
-- 📚 Continuously improving skills in **algorithms, system design, and embedded systems**  
+<h1 align="center">Hi 👋, I'm Omar Abbas</h1>
+<h3 align="center">💻 Software Engineer | Computer Science Student 🚀</h3>
 
 ---
 
-## 🚀 Skills & Technologies
+## 🧑‍💻 About Me
 
-| Language/Tech | Level |
-|---------------|-------|
-| C++           | Advanced |
-| Java          | Advanced |
-| Python        | Advanced |
-| JavaScript/HTML/CSS | Advanced |
-| Arduino       | Beginner |
+- 🎓 Computer Science student at Misr International University  
+- 💡 Passionate about solving real-world problems using code  
+- 🔧 Strong foundation in Data Structures & Algorithms  
+- 🚀 Interested in Backend Development & System Design  
+- 🧠 Always learning new technologies and improving problem-solving skills  
+- 🎯 Goal: Become a highly skilled Software Engineer  
 
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,arduino,git,github,vscode" />
+
+</p>
 
 ---
 
 ## 🧠 Problem Solving
-- Solved **150+ problems on LeetCode** (120 Easy, 25 Medium, 5 Hard)  
-- Participated in **Codeforces contests**, highest rating: 1200+  
-- Strong in **Data Structures**: Arrays, Trees, Graphs, Heaps  
-- Implemented algorithms like **Dijkstra, Merge Sort, Quick Sort, BFS, DFS**  
+
+- ✅ Solved 150+ problems on LeetCode  
+- 🏆 Participated in Codeforces contests  
+- 💪 Strong in:
+  - Arrays & Strings  
+  - Recursion & Backtracking  
+  - Trees & Graphs  
+  - Sorting & Searching Algorithms  
+- ⚡ Implemented:
+  - Dijkstra  
+  - BFS / DFS  
+  - Merge Sort / Quick Sort  
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-- Spell Checker  
-- Digital Clock & Arduino  
-- Smart Irrigation System (Assembly & Arduino)  
-- E-Commerce Application  
-
-> 💡 *Core contributor in all projects, responsible for logic, design, and implementation*
+- 🔹 Coming soon... (Add your projects here with links)
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **om1747440@gmail.com**
+## 📚 Currently Learning
+
+- 📌 System Design  
+- 📌 Backend Development  
+- 📌 Advanced Algorithms  
+- 📌 Databases  
 
 ---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:om174440@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I love turning complex problems into simple solutions 😄
 
 ## ⚡ Fun Fact
 > I’m building my future one line of code at a time 💻🔥
