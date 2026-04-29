@@ -38,7 +38,6 @@
   - Trees & Graphs  
   - Sorting & Searching Algorithms  
 - ⚡ Implemented:
-  - Dijkstra  
   - BFS / DFS  
   - Merge Sort / Quick Sort  
 
@@ -46,16 +45,45 @@
 
 ## 🚀 Projects
 
-- 🔹 Coming soon... (Add your projects here with links)
+## 🚀 Projects  
+
+### 🧑‍💻 Personal Projects
+
+- 🔹 **Coming Soon...**  
+  🚀 Currently working on building my own projects to showcase here  
+
+---
+
+### 🤝 Team Projects & Contributions
+
+- 🔹 **Spell Checker**  
+  🛠️ Contributed to developing a text spell checking tool  
+  🔗 https://github.com/Mahmoud7111/Spell-Checker  
+
+- 🔹 **Digital Clock (Arduino)**  
+  ⏰ Worked on Arduino-based digital clock logic and implementation  
+  🔗 https://github.com/Mahmoud7111/digital-clock-logic-and-arduino  
+
+- 🔹 **Smart Irrigation System**  
+  🌱 Contributed to an automated irrigation system using sensors  
+  🔗 https://github.com/Mahmoud7111/smart-irrigation-assembly-and-arduino  
+
+- 🔹 **E-Commerce Application**  
+  🛒 Participated in building an online shopping platform  
+  🔗 https://github.com/Mahmoud7111/E-Commerce-Application  
+
+- 🔹 **Van Der Linde MIU**  
+  🏫 Team-based university project  
+  🔗 https://github.com/Mahmoud7111/Van-Der-linde-MIU  
 
 ---
 
 ## 📚 Currently Learning
 
-- 📌 System Design  
+- 📌 System Design
+- 📌 Frontend Development 
 - 📌 Backend Development  
-- 📌 Advanced Algorithms  
-- 📌 Databases  
+- 📌 Advanced Algorithms   
 
 ---
 
@@ -63,12 +91,8 @@
 
 <p align="center">
 
-<a href="mailto:om174440@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=om174440@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -76,12 +100,8 @@
 ---
 
 ## ⚡ Fun Fact
-
-> I love turning complex problems into simple solutions 😄
-
-## ⚡ Fun Fact
 > I’m building my future one line of code at a time 💻🔥
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+ <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=120&section=footer"/>
 </p>
