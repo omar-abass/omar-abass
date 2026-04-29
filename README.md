@@ -103,5 +103,5 @@
 > I’m building my future one line of code at a time 💻🔥
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer&text=Omar%20Abbas&fontSize=30&fontColor=ffffff"/>
 </p>
