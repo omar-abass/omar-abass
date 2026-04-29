@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi+👋;I'm+Omar+Abbas;Software+Engineer+%7C+CS+Student;Building+real-world+projects💻" />
 </p>
 
-<h1 align="center">Omar Abbas 👨‍💻</h1>
-<h3 align="center">Software Engineer | Computer Science Student 🚀</h3>
-
----
-
 <h1 align="center">Hi 👋, I'm Omar Abbas</h1>
 <h3 align="center">💻 Software Engineer | Computer Science Student 🚀</h3>
 
