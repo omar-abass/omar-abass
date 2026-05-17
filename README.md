@@ -58,7 +58,8 @@
   🏫 Team-based university project  
   🔗 https://github.com/Mahmoud7111/Van-Der-linde-MIU
 
-  - 🔹 **MIU-Guide**  
+
+- 🔹 **MIU-Guide**  
   🏫 Team-based university project  
   🔗 https:[//github.com/Mahmoud7111/Van-Der-linde-MIU](https://github.com/Mahmoud7111/MIU-Guide.git)
 
