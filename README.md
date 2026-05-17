@@ -24,7 +24,23 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=cpp" width="45" />
+<b>C++</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=java" width="45" />
+<b>Java</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=python" width="45" />
+<b>Python</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=js" width="45" />
+<b>JavaScript</b>
 
 </p>
 
@@ -34,7 +50,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html" width="45" />
+<b>HTML</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=css" width="45" />
+<b>CSS</b>
 
 </p>
 
@@ -44,7 +66,28 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino" />
+<img src="https://skillicons.dev/icons?i=git" width="45" />
+<b>Git</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+<b>GitHub</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=vscode" width="45" />
+<b>VS Code</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=figma" width="45" />
+<b>Figma</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=arduino" width="45" />
+<b>Arduino</b>
 
 </p>
 
@@ -59,6 +102,7 @@
   - Recursion & Backtracking  
   - Trees & Graphs  
   - Sorting & Searching Algorithms  
+
 - ⚡ Implemented:
   - BFS / DFS  
   - Merge Sort / Quick Sort  
@@ -80,37 +124,43 @@
   🏫 Team-based university project  
   🔗 https://github.com/Mahmoud7111/Van-Der-linde-MIU
 
+---
 
 - 🔹 **MIU-Guide**  
   🏫 Team-based university project  
-  🔗 https:[//github.com/Mahmoud7111/Van-Der-linde-MIU](https://github.com/Mahmoud7111/MIU-Guide.git)
+  🔗 https://github.com/Mahmoud7111/MIU-Guide
 
+---
 
 - 🔹 **Spell Checker**  
   🛠️ Contributed to developing a text spell checking tool  
   🔗 https://github.com/Mahmoud7111/Spell-Checker  
 
+---
+
 - 🔹 **Digital Clock (Arduino)**  
   ⏰ Worked on Arduino-based digital clock logic and implementation  
   🔗 https://github.com/Mahmoud7111/digital-clock-logic-and-arduino  
+
+---
 
 - 🔹 **Smart Irrigation System**  
   🌱 Contributed to an automated irrigation system using sensors  
   🔗 https://github.com/Mahmoud7111/smart-irrigation-assembly-and-arduino  
 
+---
+
 - 🔹 **E-Commerce Application**  
   🛒 Participated in building an online shopping platform  
   🔗 https://github.com/Mahmoud7111/E-Commerce-Application  
-
-
 
 ---
 
 ## 📚 Currently Learning
 
-- 📌 System Design
-- 📌 Frontend Development 
-- 📌 Backend Development  
+- 📌 System Design  
+- 📌 Frontend Development   
+- 📌 Backend Development    
 - 📌 Advanced Algorithms   
 
 ---
@@ -123,6 +173,8 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/omar-mohamed-abass-08440a407/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -132,6 +184,7 @@
 ---
 
 ## ⚡ Fun Fact
+
 > I’m building my future one line of code at a time 💻🔥
 
 <p align="center">
