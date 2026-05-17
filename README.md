@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Omar Abbas</h1>
-<h3 align="center">💻 Software Engineer | Computer Science Student 🚀</h3>
+
+<h3 align="center">
+💻 Software Engineer | Computer Science Student 🚀
+</h3>
 
 ---
 
@@ -20,76 +23,97 @@
 
 ## 🛠️ Languages & Tools
 
-### 💻 Programming Languages
+<div align="center">
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=cpp" width="45" />
+<td align="center" width="180">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp" width="48" />
+<br/>
 <b>C++</b>
 
-&nbsp;&nbsp;&nbsp;
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java" width="45" />
+<img src="https://skillicons.dev/icons?i=java" width="48" />
+<br/>
 <b>Java</b>
 
-&nbsp;&nbsp;&nbsp;
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python" width="45" />
+<img src="https://skillicons.dev/icons?i=python" width="48" />
+<br/>
 <b>Python</b>
 
-&nbsp;&nbsp;&nbsp;
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=js" width="45" />
+<img src="https://skillicons.dev/icons?i=js" width="48" />
+<br/>
 <b>JavaScript</b>
 
-</p>
+</td>
 
----
+<td align="center" width="180">
 
-### 🌐 Web Technologies
+### 🌐 Frontend
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="45" />
+<img src="https://skillicons.dev/icons?i=html" width="48" />
+<br/>
 <b>HTML</b>
 
-&nbsp;&nbsp;&nbsp;
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=css" width="45" />
+<img src="https://skillicons.dev/icons?i=css" width="48" />
+<br/>
 <b>CSS</b>
 
-</p>
+</td>
 
----
+<td align="center" width="180">
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="45" />
+<img src="https://skillicons.dev/icons?i=git" width="48" />
+<br/>
 <b>Git</b>
 
-&nbsp;&nbsp;&nbsp;
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=github" width="45" />
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+<br/>
 <b>GitHub</b>
 
-&nbsp;&nbsp;&nbsp;
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=vscode" width="45" />
+<img src="https://skillicons.dev/icons?i=vscode" width="48" />
+<br/>
 <b>VS Code</b>
 
-&nbsp;&nbsp;&nbsp;
+</td>
 
-<img src="https://skillicons.dev/icons?i=figma" width="45" />
+<td align="center" width="180">
+
+### 🎨 Design & Hardware
+
+<img src="https://skillicons.dev/icons?i=figma" width="48" />
+<br/>
 <b>Figma</b>
 
-&nbsp;&nbsp;&nbsp;
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=arduino" width="45" />
+<img src="https://skillicons.dev/icons?i=arduino" width="48" />
+<br/>
 <b>Arduino</b>
 
-</p>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -97,19 +121,22 @@
 
 - ✅ Solved 150+ problems on LeetCode  
 - 🏆 Participated in Codeforces contests  
-- 💪 Strong in:
-  - Arrays & Strings  
-  - Recursion & Backtracking  
-  - Trees & Graphs  
-  - Sorting & Searching Algorithms  
 
-- ⚡ Implemented:
-  - BFS / DFS  
-  - Merge Sort / Quick Sort  
+### 💪 Strong In
+
+- Arrays & Strings  
+- Recursion & Backtracking  
+- Trees & Graphs  
+- Sorting & Searching Algorithms  
+
+### ⚡ Implemented
+
+- BFS / DFS  
+- Merge Sort / Quick Sort  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
 ### 🧑‍💻 Personal Projects
 
@@ -120,54 +147,66 @@
 
 ### 🤝 Team Projects & Contributions
 
-- 🔹 **Van Der Linde MIU**  
-  🏫 Team-based university project  
-  🔗 https://github.com/Mahmoud7111/Van-Der-linde-MIU
+### 🔹 Van Der Linde MIU
+🏫 Team-based university project  
+
+🔗 GitHub Repository:  
+https://github.com/Mahmoud7111/Van-Der-linde-MIU
 
 ---
 
-- 🔹 **MIU-Guide**  
-  🏫 Team-based university project  
-  🔗 https://github.com/Mahmoud7111/MIU-Guide
+### 🔹 MIU-Guide
+🏫 Team-based university project  
+
+🔗 GitHub Repository:  
+https://github.com/Mahmoud7111/MIU-Guide
 
 ---
 
-- 🔹 **Spell Checker**  
-  🛠️ Contributed to developing a text spell checking tool  
-  🔗 https://github.com/Mahmoud7111/Spell-Checker  
+### 🔹 Spell Checker
+🛠️ Contributed to developing a text spell checking tool  
+
+🔗 GitHub Repository:  
+https://github.com/Mahmoud7111/Spell-Checker
 
 ---
 
-- 🔹 **Digital Clock (Arduino)**  
-  ⏰ Worked on Arduino-based digital clock logic and implementation  
-  🔗 https://github.com/Mahmoud7111/digital-clock-logic-and-arduino  
+### 🔹 Digital Clock (Arduino)
+⏰ Worked on Arduino-based digital clock logic and implementation  
+
+🔗 GitHub Repository:  
+https://github.com/Mahmoud7111/digital-clock-logic-and-arduino
 
 ---
 
-- 🔹 **Smart Irrigation System**  
-  🌱 Contributed to an automated irrigation system using sensors  
-  🔗 https://github.com/Mahmoud7111/smart-irrigation-assembly-and-arduino  
+### 🔹 Smart Irrigation System
+🌱 Contributed to an automated irrigation system using sensors  
+
+🔗 GitHub Repository:  
+https://github.com/Mahmoud7111/smart-irrigation-assembly-and-arduino
 
 ---
 
-- 🔹 **E-Commerce Application**  
-  🛒 Participated in building an online shopping platform  
-  🔗 https://github.com/Mahmoud7111/E-Commerce-Application  
+### 🔹 E-Commerce Application
+🛒 Participated in building an online shopping platform  
+
+🔗 GitHub Repository:  
+https://github.com/Mahmoud7111/E-Commerce-Application
 
 ---
 
 ## 📚 Currently Learning
 
 - 📌 System Design  
-- 📌 Frontend Development   
-- 📌 Backend Development    
-- 📌 Advanced Algorithms   
+- 📌 Frontend Development  
+- 📌 Backend Development  
+- 📌 Advanced Algorithms  
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=om1747440@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -179,7 +218,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -188,5 +227,5 @@
 > I’m building my future one line of code at a time 💻🔥
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer&text=Omar%20Abbas&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer&text=Omar%20Abbas&fontSize=30&fontColor=ffffff"/>
 </p>
