@@ -20,9 +20,31 @@
 
 ## 🛠️ Languages & Tools
 
+### 💻 Programming Languages
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,arduino,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+
+</p>
+
+---
+
+### 🌐 Web Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino" />
 
 </p>
 
@@ -99,6 +121,10 @@
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=om1747440@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/omar-mohamed-abass-08440a407/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
