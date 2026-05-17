@@ -54,6 +54,15 @@
 
 ### 🤝 Team Projects & Contributions
 
+- 🔹 **Van Der Linde MIU**  
+  🏫 Team-based university project  
+  🔗 https://github.com/Mahmoud7111/Van-Der-linde-MIU
+
+  - 🔹 **MIU-Guide**  
+  🏫 Team-based university project  
+  🔗 https:[//github.com/Mahmoud7111/Van-Der-linde-MIU](https://github.com/Mahmoud7111/MIU-Guide.git)
+
+
 - 🔹 **Spell Checker**  
   🛠️ Contributed to developing a text spell checking tool  
   🔗 https://github.com/Mahmoud7111/Spell-Checker  
@@ -70,9 +79,7 @@
   🛒 Participated in building an online shopping platform  
   🔗 https://github.com/Mahmoud7111/E-Commerce-Application  
 
-- 🔹 **Van Der Linde MIU**  
-  🏫 Team-based university project  
-  🔗 https://github.com/Mahmoud7111/Van-Der-linde-MIU  
+
 
 ---
 
